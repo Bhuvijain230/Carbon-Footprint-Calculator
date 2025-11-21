@@ -79,6 +79,3 @@ The logic is located in `carbonpath_model.py` and includes:
 * Energy usage estimates for heating, cooking, and electronics
 * Consumption-based factors such as clothes and groceries
 ---
-
-
-Just let me know.
